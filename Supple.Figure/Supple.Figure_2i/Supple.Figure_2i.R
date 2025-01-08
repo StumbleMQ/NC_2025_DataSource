@@ -7,7 +7,7 @@ library(tidyverse)
 library(data.table)
 ##
 getwd()
-setwd("~/Downloads/Supple.Figure/Supple.Figure_2i")
+setwd("~/Downloads/NC_2025_RNAseq_DataSource/Supple.Figure/Supple.Figure_2i")
 ###########################################################################
 rawcounts <- read.csv("../Figure_1d/BMDM_RawCounts_AllSamples.csv")
 View(rawcounts)
