@@ -1,5 +1,5 @@
 # NC_2025_RNASeq_DataSource
-This repository contains RNA seq analysis of the main figure and supplementary figure data, as well as RNA seq Analysis related source codes.
+This repository contains source data and codes of the relevant RNA seq analysis within the main figures and supplementary figures.
 
 Data source: The associated SRA metadata for this repository are available at (https://dataview.ncbi.nlm.nih.gov/object/PRJNA1206533?reviewer=o7rio8frgf3pudokd8gi8ngpk).
 
