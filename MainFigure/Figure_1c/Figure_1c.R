@@ -6,7 +6,7 @@ rm(list=ls())
 library(dplyr)
 library(tidyverse)
 ###
-##setwd("~/Downloads/MainFigure/Figure_1c")
+##setwd("~/Downloads/NC_2025_RNAseq_DataSource/MainFigure/Figure_1c")
 ### load the differential expressed genes wild type BMDM cells subjected to LPS 
 ### treated with and without ML-SA5. 
 BMDMLPS_deg <- read.csv("BMDMLPS_DESeq2_deg.csv")
