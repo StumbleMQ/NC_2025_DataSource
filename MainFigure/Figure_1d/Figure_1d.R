@@ -185,9 +185,8 @@ gsea <- gseKEGG(id.fc, organism = "hsa",pvalueCutoff = 0.5)
 # done...
 # There were 15 warnings (use warnings() to see them)
 
-####查看一下富集结果
+#### Check Result
 gseKEGG <- gsea@result
-# write.table(gseKEGG,"./enrich/deg_BMDMLPS_enrich_gseKEGG.txt",sep = "\t",col.names = NA)
 write.table(gseKEGG,"deg_BMDMLPS_enrich_gseKEGG.txt",sep = "\t",col.names = NA)
 View(gseKEGG)
 
@@ -256,9 +255,8 @@ gsea <- gseKEGG(id.fc.score, organism = "hsa",pvalueCutoff = 0.5)
 # done...
 # There were 14 warnings (use warnings() to see them)
 
-####查看一下富集结果
+#### check result
 gseKEGG <- gsea@result
-write.table(gseKEGG,"./enrich/deg_BMDMLPS_enrich_score_gseKEGG.txt",sep = "\t",col.names = NA)
 write.table(gseKEGG,"deg_BMDMLPS_enrich_score_gseKEGG.txt",sep = "\t",col.names = NA)
 View(gseKEGG)
 
@@ -274,9 +272,6 @@ gseaplot2(gsea, geneSetID = "hsa05321",
           subplots = 1:3,
           pvalue_table = TRUE,
           ES_geom = "line")
-
-
-### filter baseMean > 10, 15196 genes; test different statistical score and 
 
 ### Alternatively using the "result" file to build GSEAPreranked files 
 ### using GSEA software ( Broad Institue GSEA v4.1.3 and GSEA v4.3.3 gene set enrichment analysis)for GSEA analysis. 
