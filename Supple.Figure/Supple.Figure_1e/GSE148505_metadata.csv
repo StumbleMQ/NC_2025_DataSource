@@ -1,0 +1,16 @@
+id,dex,Treated,geo_id,tissuetype
+Sample1,WT,Control,GSM4472580,Colon
+Sample2,WT,Control,GSM4472567,Colon
+Sample3,WT,Control,GSM4472569,Colon
+Sample4,WT,Control,GSM4472570,Colon
+Sample11,TG,Control,GSM4472566,Colon
+Sample12,TG,Control,GSM4472568,Colon
+Sample13,TG,Control,GSM4472577,Colon
+Sample14,TG,Control,GSM4472574,Colon
+Sample22,TG,Control,GSM4472576,Colon
+Sample6,WT,DSS,GSM4472572,Colon
+Sample7,WT,DSS,GSM4472571,Colon
+Sample10,WT,DSS,GSM4472573,Colon
+Sample19,TG,DSS,GSM4472575,Colon
+Sample20,TG,DSS,GSM4472578,Colon
+Sample21,TG,DSS,GSM4472579,Colon
