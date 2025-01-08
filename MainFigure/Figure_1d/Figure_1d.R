@@ -244,7 +244,7 @@ gseaplot2(gsea, geneSetID = "hsa05321",
           subplots = 1:3,
           pvalue_table = TRUE,
           ES_geom = "line")
-### Alternatively using the "result" file to build GSEAPreranked files, 
+### Alternatively using the "result" file to build GSEAPreranked files, please see SuppleFigure_8a.R for details.
 ### using GSEA software ( Broad Institue GSEA v4.1.3 and
 ### GSEA v4.3.3 gene set enrichment analysis)for GSEA analysis. 
 ###################################### END ############################
