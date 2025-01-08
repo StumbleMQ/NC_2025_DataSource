@@ -8,7 +8,7 @@ library(tidyverse)
 library(data.table)
 ###
 getwd()
-# setwd("~/Downloads/NC_figure_20250102/Figure_1d")
+# setwd("~/Downloads/NC_2025_RNAseq_DataSource/Figure_1d")
 # This file contains codes for Figure_1d and Supple.Figure_8a
 ##############################################################################################
 ### The file named "BMDM2024_gseaFigures.csv" contains annotated genes of all samples 
