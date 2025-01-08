@@ -7,7 +7,7 @@ library(tidyverse)
 library(data.table)
 ## set a working directory
 getwd()
-setwd("~/Downloads/Supple.Figure/Supple.Figure_1e")
+setwd("~/Downloads/NC_2025_RNAseq_DataSource/Supple.Figure_1e")
 ## The following data set was downloaded from
 ## https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE148505
 ## and the file name is GSE148505_raw_read_count_matrix.txt.gz
