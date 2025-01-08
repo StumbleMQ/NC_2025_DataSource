@@ -2,7 +2,7 @@ Sys.setenv(LANGUAGE = "en")
 options(stringsAsFactors = FALSE)
 rm(list=ls())
 ### 
-setwd("~/Downloads/MainFigure/Figure_4a")
+setwd("~/Downloads/NC_2025_RNAseq_DataSource/Figure_4a")
 ### 
 library(dplyr)
 library(tidyverse)
