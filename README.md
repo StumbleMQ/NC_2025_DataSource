@@ -1,4 +1,4 @@
-# NC_2025_DataSource&Code
+# NC_2025_SourceData&Code
 This repository contains the following information:
 Source Data File.zip file contains the source data and blots of main and supplementary figures.
 
